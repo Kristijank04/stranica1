@@ -133,7 +133,6 @@ li :hover {
 
 .under:hover {
     height: 260px;
-    cursor: pointer;
 }
 
 .under:hover > .downloadbuttonlink{
